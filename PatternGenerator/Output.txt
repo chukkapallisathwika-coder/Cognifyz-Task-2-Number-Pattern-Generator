@@ -1,0 +1,80 @@
+=================================================
+   WELCOME TO THE NUMBER PATTERN GENERATOR
+   Cognifyz Technologies - Java Internship Task 2
+=================================================
+-------------------------------------------------
+Please choose a pattern to generate:
+1. Half Pyramid
+2. Inverted Pyramid
+3. Floyd's Triangle
+4. Number Square
+5. Exit
+-------------------------------------------------
+Enter your choice (1-5): Enter the number of rows (1-100): 
+--- Half Pyramid Pattern ---
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+
+-------------------------------------------------
+Please choose a pattern to generate:
+1. Half Pyramid
+2. Inverted Pyramid
+3. Floyd's Triangle
+4. Number Square
+5. Exit
+-------------------------------------------------
+Enter your choice (1-5): Enter the number of rows (1-100): 
+--- Inverted Pyramid Pattern ---
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+-------------------------------------------------
+Please choose a pattern to generate:
+1. Half Pyramid
+2. Inverted Pyramid
+3. Floyd's Triangle
+4. Number Square
+5. Exit
+-------------------------------------------------
+Enter your choice (1-5): Enter the number of rows (1-100): 
+--- Floyd's Triangle Pattern ---
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+
+-------------------------------------------------
+Please choose a pattern to generate:
+1. Half Pyramid
+2. Inverted Pyramid
+3. Floyd's Triangle
+4. Number Square
+5. Exit
+-------------------------------------------------
+Enter your choice (1-5): Enter the number of rows (1-100): 
+--- Number Square Pattern ---
+1 2 3 4 5 
+1 2 3 4 5 
+1 2 3 4 5 
+1 2 3 4 5 
+1 2 3 4 5 
+
+-------------------------------------------------
+Please choose a pattern to generate:
+1. Half Pyramid
+2. Inverted Pyramid
+3. Floyd's Triangle
+4. Number Square
+5. Exit
+-------------------------------------------------
+Enter your choice (1-5): Invalid input! Please enter a whole number between 1 and 5: Invalid choice! Please enter a number between 1 and 5: Invalid choice! Please enter a number between 1 and 5: Invalid choice! Please enter a number between 1 and 5: 
+Thank you for using the Number Pattern Generator!
+Exiting program... Goodbye!
+
